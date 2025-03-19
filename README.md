@@ -1,0 +1,2 @@
+# socialdiary
+socialdiary.net
